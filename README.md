@@ -5,7 +5,7 @@ python3, cv2, sklearn, numpy, matplotlib
 
 # Reference
 continue...........
-# citing
+# citation
 T. Oblak, R. Haraksim, P. Peer, L. Beslay. 
 Fingermark quality assessment framework with classic and deep learning ensemble models. 
 Knowledge-Based Systems, Volume 250, 2022    
