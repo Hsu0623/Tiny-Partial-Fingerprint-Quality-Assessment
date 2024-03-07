@@ -1,5 +1,6 @@
 # Tiny-Partial-Fingerprint-Quality-Assessment
 code of Tiny Partial Fingerprint Quality Assessment
+![abstract](https://github.com/Hsu0623/Tiny-Partial-Fingerprint-Quality-Assessment/blob/main/fig/abstarct.png)
 # environment
 python3, cv2, sklearn, numpy, matplotlib
 
